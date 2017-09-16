@@ -27,3 +27,15 @@ h4{
   font-size: 14px;
   font-weight: normal;
   }
+  .white{
+    color: white;
+  }
+  .bottom{
+    background-color: dimgray;
+    font-size: 11px;
+    text-align: left;
+  }
+  ul,
+  li{
+    color:white;
+  }
